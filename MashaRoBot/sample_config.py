@@ -19,7 +19,7 @@ class Config(object):
     TOKEN = "BOT_TOKEN"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 1655972837  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "aestheticboyy2"
-    SUPPORT_CHAT = "OnePunchSupport"  # Your own group for support, do not add the @
+    SUPPORT_CHAT = "caritemanataudoi"  # Your own group for support, do not add the @
     JOIN_LOGGER = (
         -1001384088323
     )  # Prints any new group the bot is added to, prints just the name and ID.
