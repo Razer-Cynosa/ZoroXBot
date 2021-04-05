@@ -64,12 +64,12 @@ RUN apt update && apt upgrade -y && \
 # Pypi package Repo upgrade
 RUN pip3 install --upgrade pip setuptools
 
-# Copy Python Requirements to /root/MashaRoBot
-RUN git clone -b shiken https://github.com/Mr-Dark-Prince/MashaRoBot /root/MashaRoBot
-WORKDIR /root/MashaRoBot
+# Copy Python Requirements to /root/ZoroXBot
+RUN git clone -b shiken https://github.com/Razer-Cynosa/ZoroXBot /root/ZoroXBot
+WORKDIR /root/ZoroXbot
 
-#Copy config file to /root/MashaRoBot/MashaRoBot
-COPY ./MashaRoBot/sample_config.py ./MashaRoBot/config.py* /root/MashaRoBot/MashaRoBot/
+#Copy config file to /root/ZoroXBot/ZoroXBot
+COPY ./ZoroXBot/sample_config.py ./ZoroXBot/config.py* /root/ZoroXBot/ZoroXBot/
 
 ENV PATH="/home/bot/bin:$PATH"
 
