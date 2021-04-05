@@ -11,15 +11,16 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Qv9p77hBf48DutDzvr/giphy.gif">
+  <img src="https://telegra.ph/file/05f2644219853ba909723.jpg">
 </p>
 
 # ZoroXBot
 Me On Telegram [☸Zoro☸](https://t.me/BotZoroXbot)
+Pengembang Fork [☠Oi☠](https://t.me/aestheticboyy2)
 
 ## How To Host
 The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Mr-Dark-Prince/MashaRoBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Razer-Cynosa/ZoroXBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
 CREDITS
 ```
