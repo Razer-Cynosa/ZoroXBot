@@ -14,8 +14,8 @@
   <img src="https://media.giphy.com/media/Qv9p77hBf48DutDzvr/giphy.gif">
 </p>
 
-# MashaRobot
-Me On Telegram [✨MASHA✨](https://t.me/MashaRoBot)
+# ZoroXBot
+Me On Telegram [☸Zoro☸](https://t.me/BotZoroXbot)
 
 ## How To Host
 The easiest way to deploy this Bot
