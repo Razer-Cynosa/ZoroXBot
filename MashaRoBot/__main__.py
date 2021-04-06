@@ -371,7 +371,7 @@ def Masha_about_callback(update: Update, context: CallbackContext):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="Back", callback_data="zoro_back")
+                    InlineKeyboardButton(text="Back", callback_data="masha_back")
                  ]
                 ]
             ),
@@ -409,7 +409,7 @@ def Admin_about_callback(update, context):
                             text="❔Help & Commands", callback_data="help_back"
                         )
                     ],
-                    [InlineKeyboardButton(text="Back", callback_data="zoro_back")],
+                    [InlineKeyboardButton(text="Back", callback_data="masha_back")],
                 ]
             ),
         )
